@@ -3,7 +3,7 @@
 ### App Description
 This app displays a greeting message from Julie! Buttons at the bottom of the screen allow the user to change the text content, text color, and background color. Tapping on the background returns all settings back to the default.
 
-### App Walk-though
+### App Walk-through
 
 <img src="https://raw.githubusercontent.com/jkallini/FBU-HelloJulie/master/HelloJulieGif.gif" width=200><br>
 
